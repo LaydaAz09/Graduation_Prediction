@@ -16,6 +16,7 @@ from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.metrics import accuracy_score, classification_report
 from datetime import datetime
 import warnings
+import plotly 
 warnings.filterwarnings('ignore')
 
 # PAGE CONFIGURATION
